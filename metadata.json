@@ -1,0 +1,6 @@
+{
+  "name": "TH Finance app",
+  "description": "Financial register and society management app for Tribal Harvest, featuring Membership, Day Book, Loans, Shares, Projects, Stock, and Asset Registers.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

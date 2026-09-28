@@ -1,0 +1,11 @@
+{
+  "title": "TH Finance app",
+  "description": "Manage your finances effortlessly with this intuitive app designed for individuals and businesses, offering budgeting tools and expense tracking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
